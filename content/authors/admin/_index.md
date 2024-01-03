@@ -2,7 +2,7 @@
 bio: My research interests include distributed robotics, mobile computing, and programmable matter.
 education:
   courses:
-    - course: "PhD in Natural Sciences"
+    - course: "Ph.D in Natural Sciences"
       institution: "Bielefeld University"
       year: 2023
     - course: "MSc in Biodiversity and Collection Management"
@@ -11,7 +11,7 @@ education:
     - course: "BSc in Biology/Botany and Conservation"
       institution: "University of Rwanda"
       year: 2016
-email: ""
+email: "binablaiso120@gmail.com"
 first_name: Blaise
 highlight_name: true
 interests:
