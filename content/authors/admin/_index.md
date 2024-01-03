@@ -3,10 +3,10 @@ bio: My research interests include distributed robotics, mobile computing, and p
 education:
   courses:
     - course: "Ph.D in Natural Sciences"
-      institution: "Bielefeld University"
+      institution: "University of Bielefeld, Germany"
       year: 2023
     - course: "MSc in Biodiversity and Collection Management"
-      institution: "TU Dresden/IHI Zittau"
+      institution: "TÜ Dresden/IHI Zittau, Germany"
       year: 2018
     - course: "BSc in Biology/Botany and Conservation"
       institution: "University of Rwanda"
@@ -20,7 +20,7 @@ interests:
   - Climate change
 last_name: Binama
 organizations:
-  - name: Bielefeld University
+  - name: 
     url: https://www.uni-bielefeld.de/
 role: Independent researcher
 social:
