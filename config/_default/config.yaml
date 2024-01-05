@@ -1,4 +1,4 @@
-theme: jekyll-theme-starter-hugo-academic
+theme: "academic"
 # Configuration of Hugo #starter-hugo-academic
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
