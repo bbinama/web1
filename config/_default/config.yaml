@@ -1,11 +1,11 @@
-theme: "academic"
+theme: "jekyll-theme-minimal"
 #theme:"academic"
 # Configuration of Hugo #starter-hugo-academic
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Blaise Binama # Website name
+title: "Blaise Binama" # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -80,3 +80,4 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
