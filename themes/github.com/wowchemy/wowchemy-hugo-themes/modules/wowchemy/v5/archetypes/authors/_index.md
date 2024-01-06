@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: ""
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: ""
 
 # List each interest with a dash
 interests:
